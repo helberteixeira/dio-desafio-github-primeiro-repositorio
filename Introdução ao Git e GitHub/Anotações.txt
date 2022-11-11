@@ -1,0 +1,5 @@
+Links úteis:
+
+Markdown Guide - https://www.markdownguide.org/basic-syntax/
+
+Typora - https://typora.io/
